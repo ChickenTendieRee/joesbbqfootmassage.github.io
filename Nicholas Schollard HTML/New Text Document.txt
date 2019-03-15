@@ -1,0 +1,34 @@
+<HTML>
+<HEAD>
+<TITLE>Joe's BBQ & Massages</TITLE>
+</HEAD>
+
+<BODY BACKGROUND="images.jfif">
+
+<CENTER><IMG SRC="cooltext317901749272107.gif"></CENTER>
+
+<HR 5 color="White">
+
+<FONT SIZE="4" COLOR="Red" FACE="PAPYRUS">
+<BR>
+<H1 ALIGN=CENTER><B>Our Foot Massages include:</B></H1>
+<BR>
+Thai <IMG SRC="images (1).jfif">
+<BR>
+Swedish <IMG SRC="download (13).jfif">
+<BR>
+American <IMG SRC="download (14).jfif">
+<BR>
+Norwegian <IMG SRC="download (15).jfif">
+<BR>
+Hungarian <IMG SRC="download.png">
+<BR>
+Italian <IMG SRC="download (1).png">
+<BR>
+French <IMG SRC="download (16).jfif">
+<BR>
+Russian <IMG SRC="download (17).jfif">
+
+
+
+</HTML>

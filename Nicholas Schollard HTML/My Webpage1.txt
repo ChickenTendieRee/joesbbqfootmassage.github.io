@@ -1,0 +1,14 @@
+﻿<HTML>
+<HEAD>
+<TITLE>Joe's BBQ & Foot Massage</Title>
+</HEAD>
+
+<BODY BACKGROUND="download.jfif">
+
+<FONT SIZE="5" COLOR="Purple" FACE="PAPYRUS" style="text-align:center;">This is my message to the world!</FONT>
+
+</BODY>
+
+
+
+</HTML>
